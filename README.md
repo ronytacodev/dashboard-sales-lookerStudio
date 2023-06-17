@@ -1,7 +1,5 @@
 # Dashboard of Sales Looker Studio R&T DATA
 
-git branch -M main
-
 Link: https://lookerstudio.google.com/reporting/7b232e9b-c157-427a-8dee-4012432642e5/page/7IlTD
 
 # Targets
